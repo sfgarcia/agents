@@ -1,2 +1,2 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Principal Data Scientist con más de 8 años de experiencia liderandos istemas de machine learning de punta a punta en banca y fintech.
+Capacidad demostrada para definir dirección técnica,escalar plataformas de datos y traducir la estrategia de negocio en resultados medibles impulsados por ML. Experiencia en sistemas de recomendación, riesgo crediticio, MLOps y optimización de costos, con un sólido historial de influencia sobre equipos multifuncionales y stakeholders ejecutivos
